@@ -1,6 +1,8 @@
 **EDX python lessons**
 
 **Errors and Exceptions**
+
+
 The try command compels the program to run the code while checking for errors, in this case a value error incase the input is not an integer.
 If there is no error the exception is not triggered therefore the else 
 command is executed. The exception is triggered when a value error occurs,
