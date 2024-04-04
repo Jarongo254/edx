@@ -18,3 +18,5 @@ with open("names.txt", "r") as file:
 #for line in lines:
 #    print("hello,", line.rstrip())
 # csv (comma separated values) - format for capturing related data e.g person-house
+# csv.reader parses csv documents, determining where each component of the data in the csv file falls- drawn from the csv module
+# ***read documentation on csv module
